@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 react is a js library for building user interface
+=======
+react is a library used to build interface.
+>>>>>>> dev2
