@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 react is a js library for building user interface
+=======
+added new file for dev1 branch
+>>>>>>> 83115dcc43831059e39d8de42207272622d7efe1
