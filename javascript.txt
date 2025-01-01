@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 javascript is used to provide interactions in the webpage.
+=======
+<<<<<<< HEAD
+javascript is a dynamic scripting language.
+=======
+javascript is a dynamic scripting language
+>>>>>>> dev1
+>>>>>>> f02bb6e7c60a344671e735e7221a5cca2a3df846
