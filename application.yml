@@ -1,5 +1,1 @@
-msg: Hello from Config Server!
-welcome:
-  message: Welcome to Spring Cloud Config!
-server:
-  port: 9090
+msg :"hello config server i'm from git hub repository"
